@@ -1,0 +1,15 @@
+.box-bg {
+    width: 1100px;
+    height: 768px;
+    background: url(https://www.freeiconspng.com/uploads/grass-png-images-pictures-transparent-28.png)
+        bottom / auto 150px repeat-x,
+      url(https://img2.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg)
+        center center / 700px auto no-repeat content-box,
+      url(https://www.freeiconspng.com/uploads/lamp-png-0.png) top left / 25px
+        auto repeat-x,
+      url(https://avatanplus.com/files/resources/mid/58eb07b830eab15b56162788.png)
+        top right / 25px auto repeat-y,
+      url(https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru)
+        top left / 25px auto repeat-y;
+    background-color: green;
+  }
